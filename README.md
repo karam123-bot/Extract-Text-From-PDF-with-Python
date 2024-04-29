@@ -4,5 +4,8 @@ You must know how to collect text from pdf as a Python developer. This skill is 
 
 You can easily install this Python library by using the pip command in your terminal or command prompt as mentioned below:
 
-pip install fitz  # PyMuPDF.
+
+```bash
+pip install fitz  # PyMuPDF
+```
 After installing this Python library, we are all prepared for extracting text from any pdf file. Below is how you can extract text from any PDF file using the Python.
