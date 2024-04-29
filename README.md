@@ -1,4 +1,4 @@
-# Extract-Text-From-PDF-with-Python
+# Extract Invoice Number And Date From Pdf 
 
 You must know how to collect text from pdf as a Python developer. This skill is useful when working with resumes. Extracting text from a pdf file is not a difficult task at all. For this task, you need to install a Python library known as fitz.
 
