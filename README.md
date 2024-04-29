@@ -6,6 +6,6 @@ You can easily install this Python library by using the pip command in your term
 
 
 ```bash
-pip install fitz  # PyMuPDF
+pip install fitz  
 ```
 After installing this Python library, we are all prepared for extracting text from any pdf file. Below is how you can extract text from any PDF file using the Python.
